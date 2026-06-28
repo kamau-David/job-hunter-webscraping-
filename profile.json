@@ -1,0 +1,51 @@
+{
+  "name": "Davian",
+  "location": "Kenya",
+  "email": "you@example.com",
+  "phone": "+254...",
+
+  "target_titles": [
+    "Python Developer",
+    "AI Data Reviewer",
+    "Data Annotation Specialist",
+    "Backend Developer"
+  ],
+
+  "must_have_keywords": [
+    "python"
+  ],
+
+  "nice_to_have_keywords": [
+    "remote",
+    "AI",
+    "machine learning",
+    "data annotation",
+    "flutter",
+    "android",
+    "fintech",
+    "flask",
+    "django",
+    "web scraping",
+    "automation"
+  ],
+
+  "exclude_keywords": [
+    "senior",
+    "10+ years",
+    "clearance required"
+  ],
+
+  "min_score_to_apply": 2,
+
+  "remote_only": true,
+
+  "base_resume": "Davian — Computer Science student at Meru University, Kenya. ~9 months experience as a data annotator at Africa AI Labs, working with CVAT and Segment AI for labeling and quality review. Co-leads an Android development team at Meru University. Built KES Tracker, a Flutter/Node.js fintech app that parses M-Pesa/Airtel Money SMS and categorizes transactions with Google Gemini AI. Comfortable with Python, Flutter/Dart, Node.js, SQL, Git. Interested in AI data work, backend development, and practical software for the Kenyan market.",
+
+  "years_experience": 0.75,
+
+  "skills": [
+    "Python", "Flutter", "Dart", "Node.js", "SQL", "Git",
+    "CVAT", "Segment AI", "Data Annotation", "REST APIs",
+    "Android Development", "Prompt/AI evaluation"
+  ]
+}
